@@ -26,6 +26,7 @@
     "karma-jasmine": "^1.0.2",
     "karma-phantomjs-launcher": "^1.0.1",
     "karma-spec-reporter": "0.0.26",
-    "mocha": "^2.5.3"
+    "mocha": "^2.5.3",
+    "run-sequence": "^1.2.2"
   }
 }
